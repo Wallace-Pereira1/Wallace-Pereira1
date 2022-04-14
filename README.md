@@ -1,7 +1,6 @@
-### ✨Olá meu nome é Wallace Pereira, estudante de Ciências da Computação✨
+### ✨Hi my name is Wallace Pereira, Computer Science student✨
 
-
-⌛ Estudando Lógica de Programação <br />
+⌛ Studying Logic programming <br />
 💻 Front-end Web Developer <br />
 🌱 Beginner on github
 
