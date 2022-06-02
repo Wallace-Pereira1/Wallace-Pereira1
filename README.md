@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats)
 
-![Wallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wallace-Pereira1&theme=radical) <img src="https://files.catbox.moe/ixv0p2.svg" width="200" height="200" />
+![Wallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wallace-Pereira1&theme=radical) <img src="https://files.catbox.moe/ixv0p2.svg" width="0" height="0" />
 
 ##
 
