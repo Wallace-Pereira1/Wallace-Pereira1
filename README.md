@@ -12,7 +12,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats) <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250" height="250">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats) <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="140" height="140">
 
 ##
 &ensp;&ensp;&ensp;&ensp;
