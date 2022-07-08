@@ -21,4 +21,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img src="https://files.catbox.moe/ydqd29.png" width="30" height="30">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="32" height="30">&ensp;&ensp;
+<img src="https://files.catbox.moe/ooz57b.png" width="30" height="30">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="32" height="30">
