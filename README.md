@@ -14,6 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats) <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="145" height="145">
 
+[![Wallace-Pereira1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats)
+
 ##
 &ensp;&ensp;&ensp;&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
