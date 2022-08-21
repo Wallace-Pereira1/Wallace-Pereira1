@@ -4,17 +4,15 @@
 💻 Front-end Web Developer <br />
 🌱 Beginner on github
 
-&ensp;
+&ensp;&ensp;&ensp;&ensp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/warasep) &ensp;
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacepereira-in) &ensp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/w.arase/) &ensp;
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/warase)
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats) <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="145" height="145">
-
-[![Wallace-Pereira1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats)
+&ensp;&ensp;&ensp;&ensp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats) &ensp; &ensp;<img src="https://files.catbox.moe/f72s3v.png" width="140" height="140">
 
 ##
 &ensp;&ensp;&ensp;&ensp;
