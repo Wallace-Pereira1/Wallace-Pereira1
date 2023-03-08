@@ -1,8 +1,7 @@
 ### ✨Hi my name is Wallace Pereira, Computer Science student✨
 
-⌛ Studying Logic programming <br />
+⌛ Studying Angular Framework <br />
 💻 Front-end Web Developer <br />
-🌱 Beginner on github
 
 &ensp;&ensp;&ensp;&ensp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/warasep) &ensp;
