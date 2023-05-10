@@ -1,6 +1,6 @@
 ### ✨Hi my name is Wallace Pereira, Computer Science student✨
 
-⌛ Studying Angular Framework <br />
+⌛ Studying Javascript <br />
 💻 Front-end Web Developer <br />
 
 &ensp;&ensp;&ensp;&ensp;
