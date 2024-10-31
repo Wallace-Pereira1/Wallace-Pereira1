@@ -2,7 +2,7 @@
 
 🤖 Inteligência Artificial e Automação <br />
 💻 Front-end Web Developer Angular<br />
-#️⃣ Typescript <br />
+💠 Typescript <br />
 💛 Javascript <br />
 💜 Bootstrap <br />
 🅰️ Angular <br />
