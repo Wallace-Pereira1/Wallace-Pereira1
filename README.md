@@ -1,7 +1,14 @@
 ### ✨Computer Science Student | AI and Automation Enthusiast | Frontend Developer✨
 
-⌛ Studying Javascript <br />
-💻 Front-end Web Developer <br />
+🤖 Inteligência Artificial e Automação <br />
+💻 Front-end Web Developer Angular<br />
+#️⃣ Typescript <br />
+💛 Javascript <br />
+💜 Bootstrap <br />
+🅰️ Angular <br />
+📄 Json <br />
+
+
 
 &ensp;&ensp;&ensp;&ensp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/warasep) &ensp;
