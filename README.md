@@ -1,4 +1,4 @@
-### ✨Hi my name is Wallace Pereira, Computer Science student✨
+### ✨Computer Science Student | AI and Automation Enthusiast | Frontend Developer✨
 
 ⌛ Studying Javascript <br />
 💻 Front-end Web Developer <br />
@@ -11,7 +11,7 @@
 
 ##
 
-&ensp;&ensp;&ensp;&ensp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats) &ensp; &ensp;<img src="https://files.catbox.moe/f72s3v.png" width="140" height="140">
+&ensp;&ensp;&ensp;&ensp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=radical)](https://github.com/Wallace-Pereira1/github-readme-stats) &ensp; &ensp;<img src="https://files.catbox.moe/hp7p38.png" width="168" height="168">
 
 ##
 &ensp;&ensp;&ensp;&ensp;
