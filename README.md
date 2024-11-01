@@ -1,12 +1,7 @@
-### ✨Computer Science Student | AI and Automation Enthusiast | Frontend Developer✨
+### ✨Computer Science | AI and Automation Enthusiast | Frontend Developer✨
 
-🤖 Inteligência Artificial e Automação <br />
-💻 Front-end Web Developer Angular<br />
-💠 Typescript <br />
-💛 Javascript <br />
-💜 Bootstrap <br />
-🅰️ Angular <br />
-📄 Json <br />
+🤖 Inteligência Artificial e Automação &ensp;💻 Front-end Web Developer Angular<br />
+💠 Typescript  &ensp; 💛 Javascript &ensp;💜 Bootstrap &ensp; 🅰️ Angular &ensp;📄 Json <br />
 
 
 
