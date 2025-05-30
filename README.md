@@ -7,17 +7,6 @@
 
 ---
 
- ## 📊 GitHub Stats
-  <div align="center">
-    <br />
-    <a href="https://github.com/Wallace-Pereira1/github-readme-stats">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=tokyonight" />
-    </a>
-  </div>
-
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧠 Linguagens de Programação
@@ -41,6 +30,16 @@
 
 ---
 
+ <details>
+  <summary>📊 GitHub Stats</summary>
+  <div align="center">
+    <br />
+    <a href="https://github.com/Wallace-Pereira1/github-readme-stats">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=tokyonight" />
+    </a>
+    <img height="160em" src="https://files.catbox.moe/hp7p38.png" width="168" />
+  </div>
+</details>
 <!-- Snake animation (opcional) -->
 <!--
 ![Snake animation](https://github.com/Wallace-Pereira1/Wallace-Pereira1/blob/output/github-contribution-grid-snake.svg)
