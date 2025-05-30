@@ -9,24 +9,13 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark&perline=6)](https://skillicons.dev)
+| 🧠 Linguagens de Programação | 🎨 Front-End / UI | ⚙️ Back-End / Frameworks |
+|-----------------------------|-------------------|--------------------------|
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,htmx&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,angular&theme=dark&perline=6)](https://skillicons.dev) |
 
-### 🎨 Front-End / UI
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,htmx&theme=dark&perline=6)](https://skillicons.dev)
-
-### ⚙️ Back-End / Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs,angular&theme=dark&perline=6)](https://skillicons.dev)
-
-### 🛢️ Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=6)](https://skillicons.dev)
-
-### 🧰 Ferramentas / DevTools
-[![My Skills](https://skillicons.dev/icons?i=git,notion,ps,figma,replit,regex&theme=dark&perline=6)](https://skillicons.dev)
-
-
-### 💡 Outros / Extras
-[![My Skills](https://skillicons.dev/icons?i=arduino,md,vscode,aws,ai&theme=dark&perline=6)](https://skillicons.dev)
+| 🛢️ Banco de Dados | 🧰 Ferramentas / DevTools | 💡 Outros / Extras |
+|-------------------|--------------------------|--------------------|
+| [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,notion,ps,figma,replit,regex&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino,md,vscode,aws,ai&theme=dark&perline=6)](https://skillicons.dev) |
 
 ---
 
@@ -43,8 +32,6 @@
 <!-- Snake animation (opcional) -->
 <!--
 ![Snake animation](https://github.com/Wallace-Pereira1/Wallace-Pereira1/blob/output/github-contribution-grid-snake.svg)
-
-
 <p align="center">
   <a href="https://www.facebook.com/warasep">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
