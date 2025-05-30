@@ -21,14 +21,14 @@
 
  <details>
   <summary>📊 GitHub Stats</summary>
-  <div align="center">
-    <br />
+  <br />
+   <p align="center">
     <a href="https://github.com/Wallace-Pereira1/github-readme-stats">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=donut&theme=tokyonight&border_radius=10" />
     </a>
-    <img height="160em" src="https://files.catbox.moe/hp7p38.png" width="168" />
-  </div>
+  </p>
 </details>
+
 <!-- Snake animation (opcional) -->
 <!--
 ![Snake animation](https://github.com/Wallace-Pereira1/Wallace-Pereira1/blob/output/github-contribution-grid-snake.svg)
