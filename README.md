@@ -11,7 +11,7 @@
 
 | 🧠 Linguagens de Programação | 🎨 Front-End / UI | ⚙️ Back-End / Frameworks |
 |-----------------------------|-------------------|--------------------------|
-| [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,htmx&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,angular&theme=dark&perline=6)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,htmx&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,angular,react&theme=dark&perline=6)](https://skillicons.dev) |
 
 | 🛢️ Banco de Dados | 🧰 Ferramentas / DevTools | 💡 Outros / Extras |
 |-------------------|--------------------------|--------------------|
