@@ -18,17 +18,6 @@
 | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,notion,ps,figma,replit,regex&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino,md,vscode,aws,ai&theme=dark&perline=6)](https://skillicons.dev) |
 
 ---
-
- <details>
-  <summary>📊 GitHub Stats</summary>
-  <br />
-   <p align="center">
-    <a href="https://github.com/Wallace-Pereira1/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&layout=donut&theme=tokyonight&border_radius=10" />
-    </a>
-  </p>
-</details>
-
 <!-- Snake animation (opcional) -->
 <!--
 ![Snake animation](https://github.com/Wallace-Pereira1/Wallace-Pereira1/blob/output/github-contribution-grid-snake.svg)
