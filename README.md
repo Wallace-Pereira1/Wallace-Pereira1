@@ -1,4 +1,4 @@
-<h3 align="center">✨ Computer Science | AI & Automation Enthusiast | Frontend Developer ✨</h1>
+<h3 align="center">Computer Science | AI & Automation Enthusiast | Frontend Developer</h1>
 
 <p align="center">
   🤖 Inteligência Artificial e Automação &nbsp;|&nbsp; 💻 Front-end Web Developer Angular <br />
@@ -7,13 +7,13 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-| 🧠 Linguagens de Programação | 🎨 Front-End / UI | ⚙️ Back-End  /  Frameworks |
+| Linguagens de Programação | Front-End / UI | Back-End  /  Frameworks |
 |-----------------------------|-------------------|--------------------------|
 | [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,java&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,htmx&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,angular,react&theme=dark&perline=6)](https://skillicons.dev) |
 
-| 🛢️ Banco de Dados | 🧰 Ferramentas / DevTools | 💡 Outros / Extras |
+| Banco de Dados | Ferramentas / DevTools | Outros / Extras |
 |-------------------|--------------------------|--------------------|
 | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,notion,ps,figma,replit,regex&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino,md,vscode,aws,ai&theme=dark&perline=6)](https://skillicons.dev) |
 
