@@ -1,8 +1,10 @@
-<h3 align="center">Computer Science | AI & Automation Enthusiast | Frontend Developer</h1>
+<p align="center">
+  <strong>Engenharia de Software & Soluções de IA</strong><br />
+  Automação de Processos &nbsp;|&nbsp; Agentes Inteligentes &nbsp;|&nbsp; Visão Computacional
+</p>
 
 <p align="center">
-  🤖 Inteligência Artificial e Automação &nbsp;|&nbsp; 💻 Front-end Web Developer Angular <br />
-  💠 Typescript &nbsp;|&nbsp; 💛 Javascript &nbsp;|&nbsp; 💜 Bootstrap &nbsp;|&nbsp; 🅰️ Angular &nbsp;|&nbsp; 📄 JSON
+  TypeScript &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; LLMs & NLP &nbsp;|&nbsp; RPA & APIs &nbsp;|&nbsp; Angular
 </p>
 
 ---
