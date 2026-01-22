@@ -20,6 +20,8 @@
 | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,notion,ps,figma,replit,regex&theme=dark&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino,md,vscode,aws,ai&theme=dark&perline=6)](https://skillicons.dev) |
 
 ---
+
+![Wallace-Pereira1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!-- Snake animation (opcional) -->
 <!--
 ![Snake animation](https://github.com/Wallace-Pereira1/Wallace-Pereira1/blob/output/github-contribution-grid-snake.svg)
