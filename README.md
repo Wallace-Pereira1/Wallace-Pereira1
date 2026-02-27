@@ -1,15 +1,12 @@
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="100%">
       <div align="center">
         <strong>Engenharia de Software & Soluções de IA</strong><br /><br />
         Automação de Processos &nbsp;|&nbsp; Agentes Inteligentes &nbsp;|&nbsp; Visão Computacional<br />
         <br />
         TypeScript &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; LLMs & NLP &nbsp;|&nbsp; RPA & APIs &nbsp;|&nbsp; Angular
       </div>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Pereira1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Wallace-Pereira1's Top Languages" />
     </td>
   </tr>
 </table>
