@@ -1,5 +1,5 @@
 <p align="center">
-**Engenharia de Software • IA • Automação** TypeScript • JavaScript • LLMs • NLP • RPA • APIs • Fullstack
+Engenharia de Software • IA & Automação • LLMs • NLP • RPA • TypeScript • JavaScript • APIs • Fullstack
 </p>
 
 ---
