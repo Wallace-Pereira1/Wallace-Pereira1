@@ -34,7 +34,13 @@ Fullstack Software Engineer focused on building scalable applications, integrati
 
 ## Core Engineering
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,react,angular,vite,tailwind,nodejs,postgres,mysql,supabase,aws,git,vscode,figma&perline=5" />
+Frontend • TypeScript • JavaScript • React • Angular • Vite • Tailwind CSS
+
+Backend • Node.js • Java • REST APIs
+
+Database • PostgreSQL • MySQL • Supabase
+
+Cloud & Tools • AWS • Git • VS Code • Figma
 
 </div>
 
