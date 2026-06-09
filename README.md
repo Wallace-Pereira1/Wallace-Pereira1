@@ -2,8 +2,7 @@
 
 <img src="https://i.pinimg.com/736x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" width="100%" />
 
-<br>
-<br>
+<br><br>
 
 # Wallace Pereira
 
@@ -13,29 +12,37 @@ Building scalable applications, intelligent automations and high-performance dig
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/wallacepereira-in/) • [Portfolio](https://wallacepereiradev.vercel.app/) • [Email](mailto:wallacepereira@proton.me)
+<a href="https://www.linkedin.com/in/wallacepereira-in/">LinkedIn</a> •
+<a href="https://wallacepereiradev.vercel.app/">Portfolio</a> •
+<a href="mailto:wallacepereira@proton.me">Email</a>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## About
 
 Fullstack Software Engineer focused on building scalable applications, integrating complex systems and automating business operations.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Core Engineering
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,angular,vite,tailwind,nodejs,postgres,mysql,supabase,aws,git,vscode,figma&perline=5" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,java,react,angular,vite,tailwind,nodejs,postgres,mysql,supabase,aws,git,vscode,figma&perline=5" />
+
+</div>
 
 ---
 
-## Architecture & Integration
-
 <div align="center">
+
+## Architecture & Integration
 
 REST APIs • Webhooks • Service Layer Pattern • System Design • Scalable Architectures • Third-Party Integrations
 
@@ -43,9 +50,9 @@ REST APIs • Webhooks • Service Layer Pattern • System Design • Scalable 
 
 ---
 
-## Automation & AI
-
 <div align="center">
+
+## Automation & AI
 
 n8n • Make • AI Agents • GPT • Claude • Gemini • Prompt Engineering • Cursor • Claude Code • Perplexity
 
