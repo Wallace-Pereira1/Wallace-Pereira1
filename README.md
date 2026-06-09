@@ -7,7 +7,7 @@
 
 # Wallace Pereira
 
-### Fullstack Software Engineer • Automation Architect
+### Fullstack Software Engineer & Automation
 
 Building scalable applications, intelligent automations and high-performance digital products.
 
