@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://files.catbox.moe/7piyys.png" width="100%" />
-
-<br><br>
-
 # Wallace Pereira
 
 ### Fullstack Software Engineer & Automation
