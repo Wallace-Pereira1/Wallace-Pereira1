@@ -7,7 +7,7 @@
       <p align="center"> <a href="https://www.linkedin.com/in/wallacepereira-in/"> <img src="https://img.icons8.com/color/48/linkedin.png" width="18" alt="LinkedIn" /> </a> &nbsp;·&nbsp; <a href="https://wallacepereiradev.vercel.app/"> <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="18" alt="Portfolio" /> </a> &nbsp;·&nbsp; <a href="mailto:wallacepereira@proton.me"> <img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="18" alt="Email" /> </a> </p>
     </td>
     <td width="50%" valign="top">
-      <h3>About</h3>
+      <h3>About | Wallace Pereira</h3>
       <p>Computer Science graduate and fullstack developer with 4+ years of experience working with TypeScript and JavaScript.</p>
       <p>Currently focused on AI agents, system integrations and workflow automation connecting applications, APIs and business platforms to build practical, scalable solutions.</p>
     </td>
