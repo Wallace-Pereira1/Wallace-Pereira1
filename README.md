@@ -1,5 +1,5 @@
 <div align="center">
-# Wallace Pereira
+Wallace Pereira
 
 <table>
   <tr>
